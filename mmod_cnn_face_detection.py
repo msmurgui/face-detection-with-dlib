@@ -5,6 +5,8 @@ import time
 import dlib
 import cv2
 
+#https://www.pyimagesearch.com/2021/04/19/face-detection-with-dlib-hog-and-cnn/
+
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", type=str, required=True,

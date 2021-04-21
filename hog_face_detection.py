@@ -1,3 +1,5 @@
+#https://www.pyimagesearch.com/2021/04/19/face-detection-with-dlib-hog-and-cnn/
+
 from helpers import convert_and_trim_bb
 import argparse
 import imutils
